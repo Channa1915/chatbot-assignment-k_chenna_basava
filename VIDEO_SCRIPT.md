@@ -63,14 +63,5 @@ It covers introduction, walkthrough, and showcasing chatbot capabilities.
 - ## 📹 Demo Video
 [Watch Demo Video](https://drive.google.com/file/d/1xmXw7Oyymr0Y1OsUuZtXJiKbUFnFNW3B/view?usp=drive_link)
 
-## 📸 Screenshots
-![Memory Recall Demo](https://drive.google.com/file/d/17AycQpYrkwqucGqhPD2mVdblo2WdIDia/view?usp=drive_link)
-![Tone Adaptation Demo](https://drive.google.com/file/d/1mORUVGww7QXwPTOuqLEtZypVBV9YSUbE/view?usp=drive_link)
 
----
-
-# 📌 Notes
-- Keep the video **2–5 minutes** maximum.  
-- Show **chat interactions clearly** on the screen.  
-- Optional: include a quick scroll of the code or GitHub repo at the end.  
 
