@@ -109,7 +109,13 @@ Other: dotenv, Uvicorn
 📂 Repository
 👉 GitHub Link: [https://github.com/Channa1915/chatbot-assignment-k_chenna_basava/]
 
+📂 PDF
+👉 PDF Link: [https://drive.google.com/file/d/11VDdaoaQOm5AAx-uKBLvTFvW758_QliE/view?usp=drive_link]
+
+
+
 👤 Author
 K Chenna Basava
 Java Full Stack Developer
 Gmail: gkchanna23@gmail.com
+
