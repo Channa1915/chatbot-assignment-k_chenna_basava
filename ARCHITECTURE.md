@@ -29,7 +29,7 @@ Work with a modular backend (FastAPI) and browser frontend.
                             │
           ┌─────────────────┼─────────────────┐
           ▼                 ▼                 ▼
-   Memory Module        LLM Provider     Persona/Prompts
+   Memory Module    |    LLM Provider    |  Persona/Prompts
 
 
    
