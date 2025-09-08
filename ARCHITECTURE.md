@@ -15,6 +15,7 @@ Ensure identity consistency and reduce hallucinations.
 Work with a modular backend (FastAPI) and browser frontend.
 
 🏗️ High-Level Architecture
+-------------------------------------------------------------
                 ┌────────────────────────┐
                 │        Frontend        │
                 │  (index.html, JS, CSS) │
@@ -32,6 +33,7 @@ Work with a modular backend (FastAPI) and browser frontend.
  │ Memory Module  │  │ LLM Provider  │  │ Persona/Prompts │
  │ (SQLite store) │  │ (Gemini / API)│  │ (Rules + System)│
  └────────────────┘  └───────────────┘  └─────────────────┘
+ -------------------------------------------------------------
 
 🔹 Components
 1. Frontend (UI)
@@ -181,3 +183,4 @@ Frontend: HTML, CSS, JavaScript
 LLM: Gemini API (gemini-2.5-flash)
 
 Language: Python 3.10+
+
