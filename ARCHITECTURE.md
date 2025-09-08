@@ -30,6 +30,7 @@ Work with a modular backend (FastAPI) and browser frontend.
           ┌─────────────────┼─────────────────┐
           ▼                 ▼                 ▼
    Memory Module        LLM Provider     Persona/Prompts
+   
  -------------------------------------------------------------
 
 🔹 Components
@@ -180,6 +181,7 @@ Frontend: HTML, CSS, JavaScript
 LLM: Gemini API (gemini-2.5-flash)
 
 Language: Python 3.10+
+
 
 
 
